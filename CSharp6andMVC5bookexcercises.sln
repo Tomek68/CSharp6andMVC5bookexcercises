@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp6andMVC5bookexcercise
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpTeoriaIPraktyka", "CSharpTeoriaIPraktyka", "{527CF937-BE8D-4255-B994-C9F6E801CC98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyInitialization.LazyInitializer", "LazyInitialization.LazyInitializer\LazyInitialization.LazyInitializer.csproj", "{8BE68F24-E1F6-4859-93C5-A9256869C140}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{34938BDF-D2DB-4D68-9B90-4A7CC65D90F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34938BDF-D2DB-4D68-9B90-4A7CC65D90F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34938BDF-D2DB-4D68-9B90-4A7CC65D90F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE68F24-E1F6-4859-93C5-A9256869C140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE68F24-E1F6-4859-93C5-A9256869C140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE68F24-E1F6-4859-93C5-A9256869C140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE68F24-E1F6-4859-93C5-A9256869C140}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{34938BDF-D2DB-4D68-9B90-4A7CC65D90F0} = {527CF937-BE8D-4255-B994-C9F6E801CC98}
+		{8BE68F24-E1F6-4859-93C5-A9256869C140} = {527CF937-BE8D-4255-B994-C9F6E801CC98}
 	EndGlobalSection
 EndGlobal
